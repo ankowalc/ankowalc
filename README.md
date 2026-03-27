@@ -1,9 +1,12 @@
 Hi, I’m Andrew Kowalczewski @ankowalc
--  Ph.D. Defended Syracuse University Bioengineering
--  M.S. Applied Data Science focusing on deep learning from Syracuse University iSchool 
--  I’m interested in image anlaysis, biomedical engineering, signal analysis and histopathology
+-  Ph.D. Biomedical Engineering Syracuse University
+-  Dissertation: Integrative Approaches using AI for Advancing iPSC-Derived Cardiac Modeling
+- Advisor: Zhen Ma Ph.D.
+-  M.S. Applied Data Science focusing on deep learning from Syracuse University iSchool
+-  Masters Capstone: 
+-  I’m interested in image/signal analysis, biomedical engineering, signal analysis and histopathology
    
-  Looking to collaborate on all things hiPSC-CM & histopathology
+  Looking for work as a postdocotral researcher or research scientist 
   
  Reach me at ankowalc@syr.edu
 
