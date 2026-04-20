@@ -1,7 +1,8 @@
 Hi, I’m Andrew Kowalczewski @ankowalc
--  Ph.D. Biomedical Engineering Syracuse University
+-  Ph.D. Biomedical Engineering graduate of Syracuse University
 -  Dissertation: Integrative Approaches using AI for Advancing iPSC-Derived Cardiac Modeling
 - Advisor: Zhen Ma Ph.D.
+  
 -  M.S. Applied Data Science focusing on deep learning from Syracuse University iSchool
 -  Masters Capstone: 
 -  I’m interested in image/signal analysis, biomedical engineering, signal analysis and histopathology
